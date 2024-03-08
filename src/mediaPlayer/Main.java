@@ -1,4 +1,4 @@
-package media_player;
+package mediaPlayer;
 
 
 public class Main {
